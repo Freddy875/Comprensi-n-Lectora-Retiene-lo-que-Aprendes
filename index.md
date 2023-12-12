@@ -241,9 +241,34 @@ Crear un glosario puede ser un excelente recurso para comprender mejor un texto.
 
 Al mantener un glosario actualizado y completo, podrás mejorar tu comprensión y retención al leer textos complejos o que contienen terminología específica.
 
+### Recomendaciónes:
 
+Es fundamental dedicar tiempo exclusivamente a la investigación de términos y agregarlos directamente al glosario para evitar pérdidas de tiempo.
 
+Cuando estás investigando y recopilando términos para tu glosario, es crucial mantener el enfoque y dedicar tiempo exclusivamente a esa actividad. Aquí tienes algunas razones por las que esto es importante:
 
+1. **Eficiencia en la investigación:** Dedicar un tiempo específico para investigar términos te permite concentrarte completamente en encontrar definiciones precisas y contextualizadas para cada palabra o concepto.
 
+2. **Evita distracciones:** Al dedicar un momento exclusivo para esta tarea, reduces la posibilidad de distracciones y te sumerges plenamente en la búsqueda de información relevante.
+
+3. **Mayor organización:** Al centrarte en la construcción del glosario de manera dedicada, mantienes una mayor organización en la recopilación de términos y definiciones, lo que facilita su posterior consulta y uso.
+
+4. **Ahorro de tiempo:** Al no mezclar esta actividad con otras tareas, optimizas el tiempo que dedicas a la investigación y a la creación del glosario, haciéndolo más eficiente y productivo.
+
+Por lo tanto, asignar un tiempo específico para investigar y agregar términos a tu glosario te ayuda a mantener el enfoque y a construir un recurso valioso de manera más efectiva.
+
+Es recomendable revisar periódicamente el glosario para familiarizarse con los términos del autor y emplearlos al hablar.
+
+Revisar periódicamente tu glosario es una excelente estrategia para asegurarte de mantener frescos los términos y el vocabulario específico del autor que estás estudiando. Aquí hay algunas razones por las que es importante hacerlo:
+
+1. **Refuerza el aprendizaje:** Al repasar los términos con regularidad, refuerzas tu memoria y retención de la terminología clave utilizada por el autor.
+
+2. **Mantiene la familiaridad:** La revisión frecuente te ayuda a mantener la familiaridad con los términos, lo que facilita su comprensión y uso mientras lees.
+
+3. **Mejora la fluidez:** Al estar más familiarizado con el vocabulario del autor, tu lectura se vuelve más fluida y natural, lo que puede aumentar tu comprensión del texto en general.
+
+4. **Consolida la comprensión:** Repasar los términos te permite reafirmar y consolidar tu comprensión de su significado y contexto dentro del material que estás estudiando.
+
+Por lo tanto, programar sesiones regulares para revisar y repasar tu glosario es una excelente práctica para fortalecer tu comprensión y retención del vocabulario específico que estás estudiando.
 
 
