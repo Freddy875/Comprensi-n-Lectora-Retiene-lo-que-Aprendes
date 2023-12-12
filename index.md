@@ -55,6 +55,10 @@ La fórmula de la lectura activa que elaboré luego de ver este video fue: Argum
 
 La lectura activa es una herramienta para interactuar y comprender el texto de manera más profunda. Recordemos a Isaac Newton, reconocido por sus contribuciones en física y matemáticas, como la ley de la gravitación universal y las leyes del movimiento, pero también por su capacidad para recordar todo lo que leía. Aspirar a ser como Newton, sin olvidar nada de lo leído, es mi objetivo.
 
+
+![Texto alternativo](URL_de_la_imagen)
+
+
 ---
 
 ### El pseudo-skimming 
