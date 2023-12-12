@@ -334,7 +334,81 @@ Cada método tiene sus propias ventajas y puede ser útil dependiendo del propó
 ---
 
 ### Retención lectora:
-**Regla:** E proceso NO termina cuano acabas de leer sino codificas la información en tu memoria. 
+**Regla:** El proceso NO termina cuano acabas de leer sino codificas la información en tu memoria. 
+
+La regla establece que el proceso no finaliza al terminar de leer, sino cuando la información se codifica en tu memoria.
+
+La retención de la lectura va más allá de simplemente llegar al final de un texto o libro. No se trata solo de leer, sino de codificar la información de manera que se almacene y se retenga en la memoria a largo plazo. Aquí hay algunas formas de mejorar la retención lectora:
+
+1. **Reflexiona después de la lectura:** Tómate un tiempo después de leer para reflexionar sobre lo que has aprendido. Haz un resumen mental o anota los puntos clave para reforzar la codificación de la información en tu memoria.
+
+2. **Repite y repasa:** Revisar y repasar la información en intervalos regulares ayuda a consolidar la memoria. La repetición espaciada refuerza el almacenamiento de la información en la memoria a largo plazo.
+
+3. **Relaciona la información:** Conectar la información nueva con conocimientos previos puede fortalecer la retención. Busca conexiones entre lo que has leído y otras experiencias o conocimientos que poseas.
+
+4. **Aplica lo aprendido:** Utilizar activamente la información que has adquirido, ya sea discutiéndola, aplicándola en problemas reales o explicándosela a otros, puede ayudar a afianzar su retención.
+
+La clave está en no considerar la lectura como un evento pasivo, sino como un proceso interactivo en el que te comprometes activamente con la información para que se almacene de manera efectiva en tu memoria.
+
+---
+
+### Recuerdo activo
+
+Una técnica de estudio que facilita recuperar en tu mente lo que has estudiado, con el fin de codificar la información en tu memoria a largo plazo. Esta técnica demanda práctica y paciencia. 
+La memoria retendrá a largo plazo aquella información que ha sido practicada y revisada de manera periódica. 
+_Aquello que se aprende bien, si no se practica, tiende a olvidarse._
+
+El recuerdo activo es una técnica de estudio poderosa para mejorar la retención a largo plazo. Esta técnica implica traer a la mente la información que has estudiado, lo que ayuda a codificarla en la memoria a largo plazo. Aquí hay algunos puntos clave sobre el recuerdo activo:
+
+1. **Práctica y paciencia:** Requiere práctica y consistencia para dominarla. Al practicar regularmente, puedes mejorar tu habilidad para recuperar la información.
+
+2. **Revisión periódica:** La memoria tiende a retener mejor la información cuando se revisa de forma periódica. La práctica regular y la repetición espaciada son fundamentales para retener la información en la memoria a largo plazo.
+
+3. **Practicar lo aprendido:** La información que se practica y se aplica activamente se retiene mejor. Aplicar lo que has aprendido en problemas reales o situaciones cotidianas refuerza la memoria.
+
+4. **Olvido si no se practica:** La información que no se repasa o practica con el tiempo tiende a desvanecerse de la memoria. Por ello, la práctica y la revisión son cruciales para evitar olvidar lo que se ha aprendido.
+
+En resumen, el recuerdo activo es una estrategia efectiva para mejorar la retención y el almacenamiento a largo plazo de la información. La práctica constante y la revisión regular son fundamentales para su éxito.
+
+---
+
+### Tres métodos para la retención a largo plazo:
+1. Revisión de tu sistema de notas.
+2. Utilización de cuestionarios y recuperación activa mediante una guía de preguntas.
+3. El uso de tarjetas de memoria (flashcards).
+Además, emplear la repetición espaciada para ampliar la práctica de la información a lo largo del tiempo."
+
+
+1. **Revisión de tu sistema de notas:** Regularmente revisar y repasar tus notas ayuda a reforzar la retención. La revisión activa te permite recordar la información y fortalecer su almacenamiento en la memoria a largo plazo.
+
+2. **Quiz y Recall - Creación de guías de preguntas:** Elaborar guías de preguntas basadas en la información clave que has estudiado activa tu memoria. El proceso de recordar y responder a estas preguntas refuerza la retención.
+
+3. **Flashcards:** Las tarjetas de estudio (flashcards) son herramientas excelentes para el repaso. Puedes escribir una pregunta o un concepto en un lado y la respuesta en el otro. La práctica repetida con flashcards ayuda a consolidar la información en la memoria.
+
+Además, la repetición espaciada es un principio clave para mejorar la retención a largo plazo. Esto implica programar la revisión de la información en intervalos cada vez más largos, lo que refuerza la retención al repasar la información en momentos óptimos para la memoria.
+
+Al utilizar estos sistemas y principios, como la revisión activa, el uso de preguntas, las tarjetas de estudio y la repetición espaciada, puedes maximizar la retención de la información que estás estudiando.  
+
+---
+### Hábitos lectores
+
+Un buen hábito siempre implica un inicio desafiante, una etapa difícil en el proceso, pero se vuelve satisfactorio al final. Recordar que crear un hábito es como arrancar hojas de un cuaderno una por una: fácil de hacer, pero también fácil de dejar. Reforzarte a ti mismo con frases como 'Soy un estudiante de por vida', 'Soy el ser humano más inteligente' o 'Soy un Einstein'. 
+Recuerda la formulación de hábitos de James Clear:
+- Hazlo obvio.
+- Hazlo atractivo.
+- Hazlo satisfactorio.
+- Hazlo fácil.
+La regla establece que si deseas mejorar tu comprensión lectora, enseña lo que lees. La responsabilidad de explicarlo te lleva a entenderlo mejor."
+
+Crear hábitos sólidos de lectura puede ser un desafío, pero es muy gratificante a largo plazo. La analogía de arrancar una hoja del cuaderno una por una es muy acertada: comenzar un hábito puede ser fácil, pero mantenerlo requiere compromiso y esfuerzo constante.
+
+Recordar frases o afirmaciones positivas como "Soy un estudiante de por vida" o "Soy el ser humano más inteligente" puede ayudar a motivarte y mantener una mentalidad de crecimiento continuo. Mantener una actitud positiva hacia el aprendizaje y el desarrollo personal es fundamental.
+
+La formulación de hábitos de James Clear, centrada en hacer las cosas obvias, atractivas, satisfactorias y fáciles, es un marco útil para establecer y mantener hábitos saludables de lectura.
+
+Además, la regla de enseñar lo que lees es muy poderosa. Explicar lo que has aprendido a otros te obliga a comprenderlo a un nivel más profundo y detallado. Esta responsabilidad de explicar fomenta una comprensión más sólida y ayuda a consolidar la información en tu propia mente.
+
+En resumen, cultivar hábitos de lectura positivos y recordar técnicas efectivas como enseñar lo que lees pueden mejorar significativamente tu comprensión y retención de la información.
 
 
 
