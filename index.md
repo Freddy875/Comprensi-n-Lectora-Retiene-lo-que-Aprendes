@@ -271,4 +271,108 @@ Revisar periódicamente tu glosario es una excelente estrategia para asegurarte 
 
 Por lo tanto, programar sesiones regulares para revisar y repasar tu glosario es una excelente práctica para fortalecer tu comprensión y retención del vocabulario específico que estás estudiando.
 
+---
+
+### Notas mentales: Tomar notas eficientemente de cualquier texto.
+### Ventajas de tomar notas:
+1. Procesar la información de manera más efectiva.
+2. Estudiar utilizando tus propias expresiones.
+3. Mejorar la retención de la información en la memoria.
+
+Tomar notas de manera efectiva es una habilidad clave que puede mejorar tu comprensión y retención de la información que estás estudiando. Aquí hay algunos beneficios importantes de tomar notas:
+
+1. **Procesamiento de información:** Al tomar notas, estás procesando activamente la información. Este proceso te ayuda a filtrar y resumir lo más importante, lo que mejora tu comprensión y capacidad para recordar los conceptos clave.
+
+2. **Estudiar con tus propias palabras:** Al anotar la información con tus propias palabras, estás reformulando y resumiendo los conceptos. Esto te obliga a entender la información lo suficientemente bien como para explicarla con tus propias expresiones, lo que fortalece tu comprensión.
+
+3. **Mejora la retención:** La práctica de tomar notas efectivas ayuda a fijar la información en tu memoria. Al escribir y revisar tus notas, estás reforzando los conceptos y aumentando la probabilidad de recordar la información cuando la necesites.
+
+En resumen, tomar notas efectivas no solo ayuda a capturar la información, sino que también mejora tu comprensión, te permite estudiar de manera más efectiva y aumenta la retención de la información. Es una habilidad valiosa para cualquier tipo de estudio o lectura.
+
+### Regla: Tomar notas es como una "traducción" de la información del autor a tus propias palabras. Esta acción multiplica la retención. 
+
+Tomar notas puede considerarse como una especie de traducción de la información del autor a tus propias palabras o tu propio lenguaje. Este proceso de traducción personal hace que la información sea más comprensible para ti y contribuye significativamente a mejorar la retención.
+
+Al convertir la información en tus propias palabras al tomar notas, estás procesando activamente la información y reformulándola para adaptarla a tu comprensión y estilo de aprendizaje. Esta actividad de traducción mental ayuda a anclar mejor la información en tu memoria. Cuando vuelves a revisar tus notas, puedes recordar más fácilmente el contenido porque está conectado con tu propia interpretación y comprensión de la información original.
+
+En resumen, tomar notas no solo es una forma de registrar información, sino también una herramienta poderosa para internalizar y retener el conocimiento al hacerlo más personal y relevante para ti.
+
+Variedades de notas:
+
+1. Sistemas de notas rápidas.
+
+2. Sistemas de notas permanentes que se almacenan en una base de datos.
+
+1. **Sistema de notas rápidas:** Este método se enfoca en capturar información de manera rápida y eficiente mientras estás leyendo o escuchando una conferencia. Por lo general, se utilizan abreviaturas, palabras clave o frases cortas para resumir las ideas principales. Estas notas son temporales y pueden ser utilizadas como recordatorios para elaborar notas más detalladas posteriormente.
+
+2. **Sistema de notas permanentes o base de datos:** Aquí, se almacenan las notas de manera más organizada y permanente en una base de datos o archivo digital. Estas notas tienden a ser más detalladas, estructuradas y organizadas en categorías o temas específicos. Pueden incluir citas, resúmenes extensos, ideas desarrolladas y enlaces a fuentes relevantes. Este sistema permite acceder fácilmente a la información para futuras consultas.
+
+Ambos sistemas tienen sus ventajas: las notas rápidas permiten capturar rápidamente ideas clave, mientras que el sistema de notas permanentes proporciona un archivo organizado y detallado para un acceso rápido y una revisión más profunda. La elección del método depende de tus preferencias personales y de cómo mejor se adapte a tu estilo de aprendizaje y necesidades de estudio.
+
+---
+
+### Notas permanentes representan la fórmula del árbol de la información.
+- El método de jerarquía de ideas se basa en una lista donde se ordenan todas las ideas capturadas del texto.
+- El método Cornell implica dividir una hoja en dos columnas: una para tomar notas y otra para escribir preguntas.
+- En el caso de libros digitales, tomar notas rápidas también resulta una buena práctica.
+- Usar un esquema de colores puede ser útil al tomar notas.
+
+Hay una variedad de métodos para tomar notas, y cada uno tiene sus ventajas dependiendo del estilo y preferencias personales:
+
+1. **Notas permanentes y el árbol de la información:** Las notas permanentes organizadas como un árbol de la información representan una estructura jerárquica, similar a las ramas de un árbol, donde se detallan conceptos principales y se expanden en subconceptos o detalles relacionados.
+
+2. **Método de jerarquía de ideas:** Consiste en una lista ordenada que captura todas las ideas del texto, presentando una estructura de ideas principales y subordinadas, facilitando la comprensión de la relación entre conceptos.
+
+3. **Método Cornell:** Divide la página en dos columnas, una para tomar notas durante la lectura y otra para escribir preguntas o resúmenes después. Esto promueve la reflexión y facilita el repaso posterior.
+
+4. **Notas rápidas para libros digitales:** Incluso en libros digitales, tomar notas breves y rápidas puede ser efectivo para capturar ideas principales o conceptos clave mientras se lee.
+
+5. **Esquema de colores:** Usar colores para resaltar o categorizar información puede ser útil para identificar temas o ideas específicas de manera rápida y visual.
+
+Cada método tiene sus propias ventajas y puede ser útil dependiendo del propósito de tus notas y tu estilo de aprendizaje. Experimentar con diferentes técnicas te permitirá encontrar la que mejor se adapte a ti y mejore tu comprensión y retención de la información.
+  
+---
+
+### Retención lectora:
+**Regla:** E proceso NO termina cuano acabas de leer sino codificas la información en tu memoria. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
