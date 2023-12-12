@@ -204,10 +204,42 @@ La lectura activa ofrece una serie de beneficios, y mantener un nivel alto de at
 
 En general, la lectura activa no solo te ayuda a mantenerte concentrado y presente, sino que también mejora tu capacidad para comprender, retener y aplicar lo que estás leyendo.
 
+---
 
+### Glosario: Aumenta tanto la velocidad como la comprensión al leer.
 
+**Regla:** Al emplear los mismos términos que el autor, la comprensión se potencia; es como hablar el mismo idioma.
+Es esencial familiarizarse con el vocabulario más utilizado por el autor para mejorar la lectura.
 
+Un glosario puede ser una herramienta muy útil para mejorar tanto la velocidad como la comprensión al leer. Conocer y entender el vocabulario específico utilizado por un autor te permite sumergirte más profundamente en el texto. La regla de emplear los mismos términos que el autor es como hablar el mismo idioma, lo que facilita la comprensión y el seguimiento de su argumento o narrativa.
 
+Familiarizarse con el vocabulario clave utilizado por el autor ayuda de varias maneras:
+
+1. **Mejora la comprensión:** Al conocer y comprender las palabras específicas usadas por el autor, puedes entender mejor sus ideas y argumentos.
+
+2. **Facilita la lectura fluida:** Al estar familiarizado con el vocabulario, no te detendrás constantemente para buscar el significado de palabras desconocidas, lo que puede mejorar la velocidad de lectura.
+
+3. **Aumenta la conexión con el texto:** Entender el lenguaje específico utilizado por el autor puede ayudarte a conectar más profundamente con el contenido y captar mejor su mensaje.
+
+Por lo tanto, adentrarse en el vocabulario del autor puede ser clave para una lectura más efectiva y comprensiva.
+
+### Procedimiento para crear un glosario:
+1. Identifica el vocabulario más frecuente utilizado por el autor.
+2. Reconoce la terminología que se emplea con significados distintos.
+3. Identifica los conceptos más complejos.
+4. Desarrolla tu propio glosario dentro de un sistema de notas."
+
+Crear un glosario puede ser un excelente recurso para comprender mejor un texto. Aquí tienes algunos pasos que podrías seguir para crearlo:
+
+1. **Identifica el vocabulario más utilizado por el autor:** Busca palabras o términos que el autor repita con frecuencia en el texto. Estos podrían ser palabras clave que reflejen los temas principales o conceptos fundamentales.
+
+2. **Identifica la terminología con significados diferentes:** Algunas palabras pueden tener significados específicos en el contexto del autor que difieren de su uso común. Es importante identificar estas palabras y comprender su significado en el contexto del texto que estás leyendo.
+
+3. **Detecta conceptos complicados:** Busca términos o conceptos que puedan ser difíciles de comprender o que sean particularmente importantes en el texto. Estos podrían ser conceptos técnicos, teóricos o especializados.
+
+4. **Crea tu glosario dentro de un sistema de notas:** Toma notas detalladas de estos términos y sus significados. Organiza tu glosario de manera clara, quizás por orden alfabético o por temas, dentro de un sistema de notas o un documento separado que puedas consultar fácilmente mientras lees.
+
+Al mantener un glosario actualizado y completo, podrás mejorar tu comprensión y retención al leer textos complejos o que contienen terminología específica.
 
 
 
