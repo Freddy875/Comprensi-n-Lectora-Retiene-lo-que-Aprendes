@@ -172,10 +172,25 @@ Este enfoque ayuda a captar lo esencial del texto, comprendiendo los argumentos 
 
 Es una manera sólida de mejorar la comprensión y retención de lo que lees.
 
+---
 
+### Sistema de notas rápidas
 
+Un sistema de notas rápidas incluye explicaciones breves sobre las ideas principales que has comprendido, observaciones que deseas recordar y ejemplos o información relevante asociada que viene a tu mente.
 
+Un sistema de notas rápidas es una forma efectiva de capturar ideas clave y reflexiones mientras lees:
 
+1. **Explicaciones breves de ideas principales:** Anota resúmenes breves de las ideas más importantes que has comprendido. Estos pueden ser puntos clave, conceptos fundamentales o la esencia de un argumento.
+
+2. **Observaciones para no olvidar:** Apunta observaciones personales o reflexiones que consideres valiosas o interesantes. Pueden ser ideas propias, conexiones con experiencias previas o pensamientos sobre cómo aplicar lo aprendido.
+
+3. **Ejemplos e información relacionada:** Incluye ejemplos concretos o información adicional que refuerce las ideas principales. Esto puede provenir de otros libros, experiencias personales o ejemplos relevantes que enriquezcan tu comprensión.
+
+Este método te permite resumir rápidamente lo esencial, capturar tus reflexiones y conectarlas con ejemplos o información adicional. Es una herramienta efectiva para repasar y recordar fácilmente lo que has leído.
+
+### Beneficios de la lectura activa
+
+La lectura activa te mantiene comprometido, con un nivel de atención elevado y constante.
 
 
 
