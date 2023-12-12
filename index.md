@@ -192,9 +192,17 @@ Este método te permite resumir rápidamente lo esencial, capturar tus reflexion
 
 La lectura activa te mantiene comprometido, con un nivel de atención elevado y constante.
 
+La lectura activa ofrece una serie de beneficios, y mantener un nivel alto de atención es uno de los principales. Al comprometerte activamente con el texto, tu enfoque y concentración aumentan, lo que ayuda a mantener tu mente presente y receptiva al contenido que estás leyendo. Esto conlleva una serie de ventajas:
 
+1. **Mayor retención de información:** Al estar activamente involucrado con el texto, tiendes a recordar y retener más información que si leyeras pasivamente.
 
+2. **Mejora la comprensión:** La interacción con el texto, haciendo preguntas, reflexionando y resumiendo, te ayuda a comprender mejor las ideas y conceptos presentados.
 
+3. **Desarrollo de habilidades críticas:** La lectura activa fomenta el pensamiento crítico al cuestionar y analizar el contenido, lo que te permite formar tus propias opiniones y conexiones.
+
+4. **Mayor conexión con el material:** Al involucrarte activamente, te vuelves más interesado en el contenido, lo que puede llevarte a una comprensión más profunda y significativa.
+
+En general, la lectura activa no solo te ayuda a mantenerte concentrado y presente, sino que también mejora tu capacidad para comprender, retener y aplicar lo que estás leyendo.
 
 
 
