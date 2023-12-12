@@ -55,6 +55,21 @@ La fórmula de la lectura activa que elaboré luego de ver este video fue: Argum
 
 La lectura activa es una herramienta para interactuar y comprender el texto de manera más profunda. Recordemos a Isaac Newton, reconocido por sus contribuciones en física y matemáticas, como la ley de la gravitación universal y las leyes del movimiento, pero también por su capacidad para recordar todo lo que leía. Aspirar a ser como Newton, sin olvidar nada de lo leído, es mi objetivo.
 
+### Isaac Newton es famoso:
+
+1. Ley de la gravitación universal: Desarrolló la teoría que describe la atracción entre cuerpos masivos, explicando por qué los objetos se atraen entre sí.
+
+2. Leyes del movimiento: Formuló las tres leyes del movimiento que son fundamentales en la física clásica y siguen siendo la base de la mecánica.
+
+3. Invención del cálculo: Contribuyó significativamente al desarrollo del cálculo matemático, una herramienta esencial en la ciencia.
+
+4. Óptica: Realizó importantes descubrimientos sobre la naturaleza de la luz, como la descomposición de la luz blanca en el espectro de colores mediante un prisma.
+
+5. Principia Mathematica: Escribió esta obra maestra que reunió sus teorías sobre la física y la matemática, sentando las bases de la ciencia moderna.
+
+
+Isaac Newton es famoso por sus descubrimientos en física y matemáticas, como la ley de la gravitación universal y las leyes del movimiento, además de sus contribuciones a la invención del cálculo.
+
 
 ![IsaaacNewton.jpg](IsaaacNewton.jpg)
 
